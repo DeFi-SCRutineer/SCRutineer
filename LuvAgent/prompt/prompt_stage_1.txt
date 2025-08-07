@@ -1,0 +1,9 @@
+Please read the following function code or contract code, please answer the related questions?
+1. Questions:
+1)In this overridding function, does it remove security protection validation compared to the overriden function?
+[%MORE QUESTIONS%]
+2. Related function code or contract code:
+[%CODE%]
+3. Reference information of the related parent contract or overridden function is as follows:
+[%DES% ]
+Please answer in the following json format: {“Question 1”: “Yes” or “No”, “Questions 2”: “Yes or No”, ...}. No explanation.

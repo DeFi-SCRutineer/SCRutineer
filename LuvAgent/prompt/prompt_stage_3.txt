@@ -1,0 +1,1 @@
+How does  [%FUNCTION CALL%] affect the security logic of the smart contract?  Possible influencing factors include: “return values” , “parameter passing”, and “inherited overwriting”. Please answer in the following json format: {"return values":"Yes" or "No", "parameter passing":"Yes" or "No"}. No explanation.
