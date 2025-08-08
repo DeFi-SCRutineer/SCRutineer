@@ -1,6 +1,6 @@
-# 🚨 SCRutineer
+# SCRutineer
 
-## 🧠 Introduction
+## Introduction
 
 **SCRutineer** is an automated and practical system for detecting **logic-level usage violations** of Smart Contract Reusable Components (SCRs). It features a multi-stage pipeline designed for high accuracy and scalability:
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚧 Repository Status
+## Repository Status
 
 We are currently refactoring and organizing the codebase. Components of the project will be open-sourced progressively in this repository. While the current version may still be incomplete, we are actively working to improve its:
 
