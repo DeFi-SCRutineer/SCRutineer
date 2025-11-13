@@ -55,8 +55,11 @@ python UkeAgent.py
 - Run the analysis engine:
 
 ```bash
-cd engine
-python main.py 
+cd Engine
+python main.py \
+        --file_path=<"smart_contract path"> \
+        --INPUT_Mode=<"file" or directory"> \
+        --RUN_Mode=<"run or debug">
 ``` 
 
 
