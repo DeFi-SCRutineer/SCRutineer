@@ -1,0 +1,6 @@
+In [%FUNCTION CALL%], are the values for each parameter reasonable. Please answer in the following format: {“paremeter 1 name”: “Yes or No”, “paremeter 2 name”: “Yes or No”, ...}.
+We found the following case in the knowledge base for reference.
+1、Related function code:
+[%CODE%]
+2、Reference information:
+[%CONTENT%]

@@ -1,0 +1,8 @@
+Please read the following function code or contract code, please answer the related questions?
+1. Questions:
+Does this overriding function remove or bypass any security-relevant validation present in the overridden function?
+2. Related function code or contract code:
+[%CODE%]
+3. Reference information of the related parent contract or overridden function is as follows:
+[%DES% ]
+Please answer with "Yes" or "No". No explanation.

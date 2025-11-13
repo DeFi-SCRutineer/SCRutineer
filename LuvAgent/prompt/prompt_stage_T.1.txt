@@ -1,0 +1,7 @@
+In these function calls, which function calls will affect the security logic of the smart contract?
+1.You only need to consider the following listed function calls.
+[%FUNCTION CALL%]
+…
+2.The smart contract code is as follows:
+[%CODE%]
+Please answer in the following json format: {“function call 1 signature”: “Yes” or “No”, “function call 2 signature”: “Yes or No”, ...}. No explanation.

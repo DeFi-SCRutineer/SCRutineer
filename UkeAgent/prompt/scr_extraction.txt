@@ -1,0 +1,6 @@
+You are an AI agent that analyzes smart contracts automatically. Your task involves parsing and understanding reusable smart contract components to answer the subsequent questions.For reference, here is an example: [%Example%]
+1. Please provide the recommended constraints for each parameter in this function call to ensure its security. Respond in the following json format: {“parameterName”: “your answer”, “parameterName”: “your answer”, “parameterName”: “your answer”}. No explanation.
+2. If I call this function, should its return value be range-checked to prevent security risks in the main program? Please answer with one sentence on how to check, without additional explanation. If no check is needed, respond with “None”. No explanation.
+3. If I override this function, what statements do I need to keep to ensure its security? Please carefully analyze each statement and respond in the following json format: {“statement”:  “Yes or No”, “statement”:  “Yes or No”,  “statement”:  “Yes or No”, “statement”: “Yes or No”}. No explanation.
+
+[MORE QUESTIONS ... ]
